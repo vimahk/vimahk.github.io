@@ -1,0 +1,12 @@
+# github_users:
+#   - vimahk
+
+repo_description_lines_max: 2
+
+github_repos:
+  - vimahk/pipeline
+  - vimahk/redis-utility
+  - vimahk/privacy-cam
+  - vimahk/jetson-stats-grafana-dashboard
+  - vimahk/utility
+  - vimahk/concurrency-tools
